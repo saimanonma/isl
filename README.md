@@ -1,2 +1,0 @@
-# isl
-assignment-2
